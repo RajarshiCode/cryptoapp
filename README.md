@@ -6,6 +6,9 @@
 ![image](https://user-images.githubusercontent.com/91433084/197371163-82f131c8-77cd-4d3e-9559-83b93e44ecaa.png)
 ![image](https://user-images.githubusercontent.com/91433084/197371176-a55ab6af-3f52-424c-941e-47b9a5acb2c5.png)
 ![image](https://user-images.githubusercontent.com/91433084/197371195-ddf902d0-e1fa-4112-ac52-6940722cf168.png)
+# Backend Transaction logic
+## The whole Logic has been made using this Cranq Application.
+![image](https://user-images.githubusercontent.com/91433084/197371357-13d79155-f5da-4bfa-93a4-c954e4dbe307.png)
 
 # Hosted Using Netlify.
 ## Deploy Status:- [![Netlify Status](https://api.netlify.com/api/v1/badges/709324a4-9500-4434-ae08-770518c1abd7/deploy-status)](https://app.netlify.com/sites/uniswaprajarshidas/deploys)
