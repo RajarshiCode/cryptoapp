@@ -1,6 +1,8 @@
-# Crytocurrency Token Exchange Application
+# Crytocurrency Token Exchange Application.
+### The simple interface of this application
 ![image](https://user-images.githubusercontent.com/91433084/197371059-94acef32-21dd-4e07-b356-d3e638d9bcb8.png)
-![image](https://user-images.githubusercontent.com/91433084/197371093-5d907cbf-487a-4ae4-8edd-84baab823d38.png)
+### After connecting the Metamask Wallet.
+Here, for the smooth transaction we have Goerli Test-net Ethereum which is free!
 ![image](https://user-images.githubusercontent.com/91433084/197371121-859df693-fe2e-4f74-a373-f5bac1c1bb02.png)
 ![image](https://user-images.githubusercontent.com/91433084/197371140-c0ad92c3-13b1-492a-9894-42606f67b2aa.png)
 ![image](https://user-images.githubusercontent.com/91433084/197371163-82f131c8-77cd-4d3e-9559-83b93e44ecaa.png)
